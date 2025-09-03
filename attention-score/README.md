@@ -7,7 +7,7 @@
 
 ## 📌 프로젝트 개요
 - **배경**  
-  Transformer의 Attention 연산은 매우 높은 연산량을 요구합니다. 이를 하드웨어 가속기로 구현하면 **지연(latency)**을 줄이고 **전력 효율성**을 높일 수 있습니다.  
+  Transformer의 Attention 연산은 매우 높은 연산량을 요구합니다. 이를 하드웨어 가속기로 구현하면 **지연(latency)** 을 줄이고 **전력 효율성**을 높일 수 있습니다.  
 
 - **목표**  
   1. Verilog로 Attention Score 연산기 설계  
